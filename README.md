@@ -41,16 +41,27 @@ Each file had 13 columns: ride_id, rideable_type, started_at, ended_at, start_st
 
 ## Process
 I used BigQuery SQL for processing and cleaning the data, becuase Excel can only process 1,048,576 rows. The 12 data sets, once combined, contained a total of 5,719,877 rows.   
-After, I used Tableau to create data vizualizations. 
 
+I downloaded the 12 months of trip data. I uploaded the files to GoogleCloud and created a bucket.
 
-My first three steps were to:
-1. Download the previous 12 months of trip data.
-2. Upload to GoogleCloud and create a bucket.
-3. Combine the data in one table.
+[Processing the data](https://github.com/drreid1/DReid/blob/8fa50b904e745338b0c50a7855f42629b6ce429e/Process%20the%20data.ipynb)  
+1. Combine the data in a table called combined_trips.
+2. Count the rows
+3. Check for distinct rows
+4. Check for missing information or nulls
+5. Count the number of member types
 
-This [link](https://github.com/drreid1/DReid/blob/1bc73710efefe2ec0550ae5ddb93088294ab2953/casestudy.ipynb) is for the Markdown Notebook I recorded my process in. 
+## Clean
+After combining the data into a table called combined_trips, I [cleaned the data](https://github.com/drreid1/DReid/blob/8fa50b904e745338b0c50a7855f42629b6ce429e/Process%20the%20data.ipynb) for analysis.
+1. Select and delete rows containing nulls. Removed 1,388,170 rows.
+2. Add column for ride_length.
+3. Delete rows where ride_length is less than 1 minute or greater than 1440 minutes (day).
+4. Add columns for month and day_of_week.
+5. Count the number of remaining rows after cleaning.
+   Result: 4331540
 
+## Analyze
+I used Tableau to create data vizualizations. I uploaded my combined and cleaned dataset into Tableau Desktop. 
 
 
 
