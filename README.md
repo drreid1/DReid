@@ -64,12 +64,13 @@ After combining the data into a table called combined_trips, I [cleaned the data
 I used Tableau to create data vizualizations. I uploaded my combined and cleaned dataset into Tableau Desktop. 
 
 I wanted to compare how the casual riders and member riders differ throughout the year.   
-During 2023, there was a total of 4,331,540 riders.
+During 2023, there was a total of 4,331,540 riders.   
 Memeber riders: 2,799,909   
 Casual riders: 1,531,631
 
 ![Rider Percentages](https://github.com/drreid1/DReid/blob/e330a240a68b70617b54c8f661136c4e821bb139/Sheet%206.png)
 
+August was the most popular month for Member riders (351,056) and July was the most popular for Casual riders (245,279). 
 
 ![Riders by Month](https://github.com/drreid1/DReid/blob/565c550c4ec1235a253769e8952c956f2ba4ffc4/Sheet%201.png)
 
