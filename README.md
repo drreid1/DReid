@@ -70,9 +70,15 @@ Casual riders: 1,531,631
 
 ![Rider Percentages](https://github.com/drreid1/DReid/blob/e330a240a68b70617b54c8f661136c4e821bb139/Sheet%206.png)
 
-August was the most popular month for Member riders (351,056) and July was the most popular for Casual riders (245,279). 
+August was the most popular month for Member riders (351,056) and July was the most popular for Casual riders (245,279). Summer months could be a peak time for riders of both types. 
 
 ![Riders by Month](https://github.com/drreid1/DReid/blob/565c550c4ec1235a253769e8952c956f2ba4ffc4/Sheet%201.png)
 
+Member riders tended to use Cyclisitc during the week, while Casual riders tended to use them on the weekends.
 
+![Riders by Day of the Week](https://github.com/drreid1/DReid/blob/71af82182424627fa765b30d135f41618def6fac/Sheet%202.png)
 
+Members' average ride length was around half of the Casual riders' average ride length.
+Casual riders rode for longer on the weekends. Member riders had more consistent ride length throughout the whole week.
+
+![Average ride length](https://github.com/drreid1/DReid/blob/cd1ce9d154d9a68a6b81781da457af4a6f883dc6/Sheet%203.png)
