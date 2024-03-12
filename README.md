@@ -68,7 +68,7 @@ During 2023, there was a total of 4,331,540 riders.
 Memeber riders: 2,799,909   
 Casual riders: 1,531,631
 
-
+![Rider Percentages](https://github.com/drreid1/DReid/blob/e330a240a68b70617b54c8f661136c4e821bb139/Sheet%206.png)
 
 
 ![Riders by Month](https://github.com/drreid1/DReid/blob/565c550c4ec1235a253769e8952c956f2ba4ffc4/Sheet%201.png)
