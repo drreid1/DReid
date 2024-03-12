@@ -49,7 +49,7 @@ My first three steps were to:
 2. Upload to GoogleCloud and create a bucket.
 3. Combine the data in one table.
 
-
+This [link](https://github.com/drreid1/DReid/blob/1bc73710efefe2ec0550ae5ddb93088294ab2953/casestudy.ipynb) is for the Markdown Notebook I recorded my process in. 
 
 
 
