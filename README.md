@@ -63,6 +63,8 @@ After combining the data into a table called combined_trips, I [cleaned the data
 ## Analyze
 I used Tableau to create data vizualizations. I uploaded my combined and cleaned dataset into Tableau Desktop. 
 
+I wanted to compare how the casual riders and member riders differ throughout the year. 
+![Riders by Month](https://github.com/drreid1/DReid/blob/565c550c4ec1235a253769e8952c956f2ba4ffc4/Sheet%201.png)
 
 
 
