@@ -84,4 +84,5 @@ Casual riders rode for longer on the weekends. Member riders had more consistent
 ![Average ride length](https://github.com/drreid1/DReid/blob/cd1ce9d154d9a68a6b81781da457af4a6f883dc6/Sheet%203.png)
 
 The following graphic shows the most popular start stations for Member and Casual riders.
+
 [Most Popular start stations](https://github.com/drreid1/DReid/blob/61bbae38309a88a2d3d7a6f9988138c312b4337e/Dashboard%203.png)
